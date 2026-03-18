@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "projeto catalogo"
+git branch -M main
+git remote add origin https://github.com/g62520698-ctrl/catalogo2-app.git
+git push -u origin main
+
